@@ -1,0 +1,2 @@
+# GROWTH
+Edge computing code to solve World Hunger. GROWTH represents an idea me and 3 others came up with to improve urban farming. It is an IOT scalable vertical garden composed of sensors which in turn tell a few actuators what to do. (1) Soil moisture sensors inform the drip water/fertilizer irrigation system. (2) DHT11 temp and humidity sensors inform the dehumidification system and (3) a lighting system composed of UV LEDs, blue and red LEDs to control the plant growth versus fruit yield when programmatically adjusted per needs of consumer.
